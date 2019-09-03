@@ -16,3 +16,5 @@ Route::get('/', function () {
 });
 Route::get('/produtos','CtrlProduto@index');
 Route::get('/categorias','CtrlCategoria@index');
+Route::get('/categorias/novo','CtrlCategoria@create');
+Route::get('/produtos/novo','CtrlProduto@create');

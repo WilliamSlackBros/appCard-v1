@@ -21,7 +21,7 @@
                 <p class="card-text">
                 Cadastrar Categorias
                 </p>
-                <a href="/categoria" class="btn btn-primary">Cadastrar</a>
+                <a href="/categorias/novo" class="btn btn-primary">Cadastrar</a>
             </div>
         </div>
     </div>

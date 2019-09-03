@@ -23,7 +23,7 @@ class CtrlProduto extends Controller
      */
     public function create()
     {
-        //
+        return view('novoProduto');
     }
 
     /**
